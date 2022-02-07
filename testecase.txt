@@ -1,0 +1,23 @@
+45535 [BUG] Botão QCuidado loading muito grande
+
+Cenário: Entrar no Botão QCuidado
+Step1: Clicar no botão "Iniciar QCuidado", 
+Step2: Ir para meet-dev-inclua.com
+Resultado Esperado: Redirecionar para Espera em vídeo com o Médico 
+Resultado Obtido: redirecionou para chamada em vídeo com Médico.
+
+
+ -------------------------------------------------------------
+
+
+45446 [BUG] Refresh na tela de pagamento
+
+Cenário: Carregamento da tela de pagamentos
+Step1: Entrar na página de pagamentos 
+Resultado Esperado: Tela carregar todos os pagamentos
+Resultado Obtido: Carrega todas a página de pagamento 
+
+------------------------------------------------------------------
+
+
+
